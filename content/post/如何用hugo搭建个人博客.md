@@ -33,7 +33,7 @@ draft: false
 * 其中 Step6 ,在 VsCode 里用 Ctrl+Shift+P 快捷键打开 config.toml。
   * 汉化，将 Language,从 en 改成 zh-Hans,title 也可以改成自己喜欢的名字。
 * 新开一个终端运行 hugo。 
-### 4.最后。 运行 Step7:hugo 之后，出现 public 文件，我们需要将 public 文件提交至 github 上。
+### 4.最后，运行 Step7:hugo 之后，出现 public 文件，我们需要将 public 文件提交至 github 上。
  
 * 回到终端，新建 .gitignore,在其写
   ```
